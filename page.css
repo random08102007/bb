@@ -1,0 +1,172 @@
+.menu{
+   text-align: center;
+   
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    padding: 20px 40px;
+}
+
+.header{
+    text-align: center;
+    color: rgb(237, 242, 245);
+    padding: 200px 0; 
+    background-color: brown;
+    background-position: top center;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+}
+
+.header a{
+    text-decoration: none;
+    color: rgb(6, 18, 29);
+    background-color: aliceblue;
+    padding: 12px 24px;
+    border-radius: 10px;
+}
+
+.text h2{
+    text-align: center;
+}
+
+.text{
+    text-align: justify;
+    max-width: 900px;
+    padding: 40px 0px;
+    margin: 0px auto;
+}
+
+.text img{
+   width: 200px; 
+   float: right;
+   margin: 30px ;
+}
+
+#team{
+   text-align: center;
+}
+
+.member{
+    display: inline-block;
+    width: 33%;
+    margin: 20px 10px;
+    padding: 20px;
+    box-shadow: 0 2px 5px gray;
+    background-color: brown;
+}
+
+.member a{
+    text-decoration: none;
+    color: rgb(209, 203, 203);
+    background-color: rgb(126, 11, 11);
+    border-radius: 10px;
+    padding: 12px 20px;
+}
+
+.position {
+    color: black;
+}
+
+.description{
+    text-decoration: none;
+    text-shadow: 1px 3px 4px rgb(255, 160, 122);
+}
+
+.descriptionn{
+    text-decoration: none;
+    text-shadow: 1px 3px 4px rgb(255, 160, 122);
+}
+
+#prices{
+    text-align: center;
+    background-color: brown;
+}
+
+.tariff{
+    background-color: rgb(177, 168, 168);
+    display: inline-block;
+    width: 33%;
+    margin: 20px 10px;
+    padding: 20px;
+    box-shadow: 0 3px 6px rgb(26, 24, 24);
+}
+
+.tariff a{
+    text-decoration: none;
+    color: rgb(159, 166, 172);
+    background-color: rgb(61, 61, 61);
+    padding: 12px 24px;
+    border-radius: 10px;
+}
+
+.tariff li{
+    list-style-type: none;
+}
+
+.important{
+    font-weight: bold;
+}
+
+.price{
+    color: darkred;
+    font-weight: bold;
+}
+
+.tariff-name{
+    color: darkred;
+    font-weight: bolder;
+}
+
+#prices h2{
+    color: rgb(0, 0, 0);
+}
+
+#prices p{
+    color: rgb(118, 2, 2);
+    font-weight: bold;
+}
+
+.nice{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.cont{
+    font-weight: bolder;
+    color: rgb(205, 92, 92);
+    text-align: center;
+}
+
+.fact{
+    color: rgb(199, 21, 133);
+    text-align: center;
+}
+
+
+form{
+    text-align: center;
+    width: 400px;
+    margin-left: 450px;
+    background-image: url(mqdefault.jpg);
+    background-position: top center;
+
+}
+
+#contact{
+    text-align: center;
+    color: rgb(157, 0, 0);
+}
+
+label{
+    color: white;
+}
+
+body{
+    background-image: url(бардо.jpg);
+}
+
+
+
